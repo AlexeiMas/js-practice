@@ -1,0 +1,1 @@
+exports.cursor = 0
